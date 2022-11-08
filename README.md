@@ -1,1 +1,3 @@
-# QtCaculator
+# 关于 QtCaculator
+## 这是一个仿Win11计算器的Qt Demo 
+> 项目于2022年10月3日~2022年10月10日开发,功能尚未完善
