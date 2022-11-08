@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/Image/history.png</file>
+        <file>res/Image/menu.png</file>
+        <file>res/Image/scale.png</file>
+        <file>res/qss/stylesheet_1.qss</file>
+        <file>res/qss/stylesheet_2.qss</file>
+        <file>res/Image/history_black.png</file>
+        <file>res/Image/scale_black.png</file>
+        <file>res/Image/menu_black.png</file>
+        <file>res/qss/QMessageBox_Stylesheet_2.qss</file>
+        <file>res/qss/QMessageBox_Stylesheet_1.qss</file>
+    </qresource>
+</RCC>

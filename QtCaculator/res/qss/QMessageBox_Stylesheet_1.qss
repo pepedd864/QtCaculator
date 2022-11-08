@@ -1,0 +1,27 @@
+QWidget
+{
+	background-color:rgb(239,244,249);	
+}
+QLabel
+{
+	color:rgb(25,26,26);
+	font-size:16px
+}
+QPushButton
+{
+	min-width:60px;
+	min-height:30px;
+	color:rgb(25,26,26);
+	font-size:12px;
+	background-color:rgb(255,255,255);
+	border:none;
+}
+QPushButton:hover
+{
+	background-color:rgb(252,252,252);
+}
+QPushButton:pressed
+{
+	background-color:rgb(248,249,252);
+	color:rgb(94,95,96);
+}
